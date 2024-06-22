@@ -1,0 +1,11 @@
+{
+    "name": "whack-a-mole",
+    "version": "0.0.1",
+    "description": "whack-a-mole example agent",
+    "main": "main.py",
+    "openiap": {
+        "daemon": false,
+        "chromium": false,
+        "language": "python"
+    }
+}
